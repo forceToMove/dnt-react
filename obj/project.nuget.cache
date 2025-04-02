@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "JqLZcKVRdfg=",
+  "dgSpecHash": "06/OJ+6YTLY=",
   "success": true,
   "projectFilePath": "D:\\Projects\\PollFul\\PollFul.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Anton\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.2\\microsoft.aspnetcore.openapi.9.0.2.nupkg.sha512",
-    "C:\\Users\\Anton\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+    "C:\\Users\\Anton\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512",
+    "C:\\Users\\Anton\\.nuget\\packages\\scalar.aspnetcore\\2.1.5\\scalar.aspnetcore.2.1.5.nupkg.sha512"
   ],
   "logs": []
 }

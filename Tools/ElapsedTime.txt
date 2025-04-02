@@ -1,0 +1,6 @@
+No parallel:
+Elapsed time 272
+Elapsed time 2077
+Elapsed time 16957
+
+With parallel:
